@@ -1,0 +1,3 @@
+* Değişkenler Artık fonksiyonlara dönüştürülecektir.
+
+* Variables will now be converted to functions.
