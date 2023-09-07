@@ -1,3 +1,7 @@
+7 Eylül , 2023 , 17:27
+
 * Değişkenler Artık fonksiyonlara dönüştürülecektir.
+
+7 September , 2023 , 17:27
 
 * Variables will now be converted to functions.
