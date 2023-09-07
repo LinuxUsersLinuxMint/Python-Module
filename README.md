@@ -19,3 +19,9 @@ NOTE: The inputd module must be located inside the runtime and its folder.
 NOTE2: Before using the inputd module, we recommend that you customize it and make changes to the codes.
 
 * You can look at inputd.py or input.txt to see what variables it contains.
+
+Güncellemeler Hakkında / Updates About
+
+* inputd modulu sürekli güncellenmektedir o yuzden güncel değişkenleri kullanmak için inputd nin son sürümünü yükleyiniz.
+
+* The inputd module is constantly updated, so please install the latest version of inputd to use the current variables.
