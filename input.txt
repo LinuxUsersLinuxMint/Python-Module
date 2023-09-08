@@ -28,13 +28,10 @@ yuzde
 
 islem
 
-addition
-subtraction
-multiplication
-division
-percentage
+collect
+Extraction
+Impact
+Divide
+Percentage
 
 process
-
-numbers
-letters
