@@ -8,7 +8,8 @@ NOTE2: Report errors to the report.txt file.
 
 UYARI: inputd.py modulune artık destek verilmeyecektir. Bu ne anlama geliyor.
  * Proje artık yeni düzenleme veya güncelleme almayacaktır.
-
+* İlerleyen zamanlarda bu karardan vazgeçilebilir.
 
 WARNING: inputd.py module will no longer be supported. What does it mean.
  * The project will no longer receive new edits or updates.
+* This decision may be withdrawn in the future.
