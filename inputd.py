@@ -38,8 +38,6 @@ def yuzde():
     print("{0} + {1} = {2}". format(sayi1,sayi2,sonuc))
     return
 
-islem=input('Gerçekleştirmek İstediğiniz İşlemi Giriniz: ')
-
 def addition():
     number1=int(input('Enter the First Number: '))
     number2=int(input('Enter the Second Number: '))
@@ -70,9 +68,6 @@ def Percentage():
     result = number1 % number2
     print("{0} + {1} = {2}". format(number1,number2,result))
     return
-
-
-process=input('Enter the action you want to perform: ')
 
 # number,letter inputs (for random)
 
